@@ -15,4 +15,4 @@ class Artifact:
         #0 DMVal, 1 DM%, 2 DFVal, 3 DFe%, 4 hpVal, 5 hp%, 6 EM, 7 EC, 8 CR, 9 CD
 
     def subop_growsParametor(self):
-        pa
+        pass
