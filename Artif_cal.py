@@ -14,5 +14,11 @@ class Artifact:
         self.subtype = np.random.choice([0, 1, 2, 3, 4, 5, 6, 7, 8, 9])
         #0 DMVal, 1 DM%, 2 DFVal, 3 DFe%, 4 hpVal, 5 hp%, 6 EM, 7 EC, 8 CR, 9 CD
 
+    def subop_growsrate(self):
+        if self.subop_count== 4:
+            
+
+
+
     def subop_growsParametor(self):
-        pa
+        pass
