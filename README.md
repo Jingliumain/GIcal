@@ -2,11 +2,11 @@ Studying python...
 
 自分用メモ代わり
 
-//Artifi_cal.py
+#Artifi_cal.py
 
 working
 
-//GIcal.xlsm
+#GIcal.xlsm
 
 適当な計算まとめ
 
