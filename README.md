@@ -1,5 +1,12 @@
-Upload low quality contents
+Studying python...
 
-All calculate for myself
+自分用メモ代わり
 
-Use whatever you want
+//Artifi_cal.py
+
+working
+
+//GIcal.xlsm
+
+適当な計算まとめ
+
